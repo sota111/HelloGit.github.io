@@ -2,5 +2,3 @@
 はじめてのGithub
 
 Hi Github!
-
-help me...
